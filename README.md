@@ -14,6 +14,10 @@ This project utilizes a Raspberry Pi Pico microcontroller along with a DHT11 sen
 - 20x4 I2C LCD screen
 - MicroUSB cable for programming
 
+## Wiring Diagram
+
+![Wiring Diagram](wiring_diagram.png)
+
 ## Installation
 
 1. Connect the DHT11 sensor and the LCD screen to the Raspberry Pi Pico as per the wiring diagram.
