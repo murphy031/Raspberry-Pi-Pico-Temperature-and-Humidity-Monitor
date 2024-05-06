@@ -21,7 +21,7 @@ This project utilizes a Raspberry Pi Pico microcontroller along with a DHT11 sen
 
 ```bash
 git clone https://github.com/your_username/pico-temperature-humidity-monitor.git
-
+```
 
 ## Usage
 
